@@ -1,5 +1,5 @@
-# Project 7 — Security Policy, Risk & Compliance Fundamentals Portfolio
-
+# GRC - Project — Security Policy, Risk & Compliance Fundamentals Portfolio
+Author: Meer 
 A five-part GRC portfolio built around a single fictional company, **Meridian HealthTech Solutions**
 (a mid-size healthcare SaaS platform processing Protected Health Information), so that every
 deliverable — policies, gap analysis, risk register, vendor assessment, and awareness program —
