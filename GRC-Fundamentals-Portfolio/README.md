@@ -1,4 +1,5 @@
 # 📂 GRC Fundamentals Portfolio
+<img width="600" height="250" alt="GRC_modified" src="https://github.com/user-attachments/assets/b379b873-89e4-4408-8292-3cb15e6bf037" />
 
 Welcome to my **Governance, Risk, and Compliance (GRC) Fundamentals Portfolio**.  
 This repository demonstrates practical applications of cybersecurity governance, risk management, and compliance frameworks through five key projects.
@@ -91,6 +92,8 @@ This repository demonstrates practical applications of cybersecurity governance,
 - Security Awareness & Phishing Campaigns  
 
 ---
+<img width="1536" height="1024" alt="GRC" src="https://github.com/user-attachments/assets/114e0d3c-89ab-4978-871d-c8c9063b9196" />
+
 
 ## 🔗 Author
 **Meer Saifulla**  
