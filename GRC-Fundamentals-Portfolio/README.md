@@ -1,5 +1,5 @@
 # GRC - Project — Security Policy, Risk & Compliance Fundamentals Portfolio
-Author: Meer 
+ 
 A five-part GRC portfolio built around a single fictional company, **Meridian HealthTech Solutions**
 (a mid-size healthcare SaaS platform processing Protected Health Information), so that every
 deliverable — policies, gap analysis, risk register, vendor assessment, and awareness program —
@@ -149,3 +149,4 @@ Policy Suite (1)  ──defines control expectations──▶  ISO 27001 Gap Ana
 
 *Part of [GRCProjects](https://github.com/Meer-S/GRCProjects) — a portfolio of hands-on GRC and
 compliance lab work. See Project 6 for the DPDP Act 2023 study guide and lab series.*
+*  Author: Meer
